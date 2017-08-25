@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Firefox Developer Edition
+Icon=/home/mb/.local/share/umake/web/firefox-dev/browser/icons/mozicon128.png
+Exec=env MOZ_USE_XINPUT2=1 /home/mb/.local/share/umake/web/firefox-dev/firefox %u
+Comment=Firefox Aurora with Developer tools
+Categories=Development;IDE;
+Terminal=false
+
