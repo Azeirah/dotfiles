@@ -1,7 +1,10 @@
-{
+[
+    {
         "keys": ["d", "e", "s", "c"],
         "command": "clisp_comment_block",
         "context": [
             { "key": "selector", "operator": "equal", "operand": "source.lisp"}
         ]
     }
+]
+
