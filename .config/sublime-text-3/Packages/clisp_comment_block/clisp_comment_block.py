@@ -14,7 +14,6 @@ def semicolons(lispCode):
 
 class clispCommentBlock(sublime_plugin.TextCommand):
     def run(self, edit):
-        print("CLisp")
         window = sublime.active_window()
         view = window.active_view()
         sel = view.sel()
