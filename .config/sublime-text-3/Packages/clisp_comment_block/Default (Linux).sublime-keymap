@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+d+s"],
+        "command": "clisp_comment_block",
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "source.lisp"}
+        ]
+    }
+]
+
